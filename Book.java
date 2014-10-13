@@ -1,15 +1,15 @@
 package org.zf.struts2.ch02.action;
 import com.opensymphony.xwork2.Action;
 public class Book implements Action {
-	String ISBN; // 国标准图书编号 
+    String ISBN; // 国标准图书编号 
     String Title; // 书名
     String AuthorID;//作者id
     String Publisher; // 出版商  
     String PublishDate; // 出版日期  
     String Price;// 价格 
-    String Name;//作者
-    String Age;//
-    String Country;//
+    String Name;//作者名字
+    String Age;//作者年龄
+    String Country;//作者国籍
     public String getISBN(){
     	return ISBN;
     }

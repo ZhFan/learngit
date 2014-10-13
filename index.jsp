@@ -29,6 +29,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 </tr>
 <tr align="center">
 <td colspan="1"><input type="submit" value="submit"/><td>
+<h6>库中包含作者</h6>
+<h6>Kazuo Ishiguro/David Nicholls/Joyce Carol Oates/Tom Wolfe/Theodore Dreiser/James Patterson</h6>
 </tr>
 </table>
 </form>

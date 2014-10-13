@@ -43,4 +43,4 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
  <input type="button" value="Home" onClick="window.location.href='index.jsp'">
  </body>
 </html>
-
+<%--Bookdetail。jsp 用于显示图书的详细信息--%>
